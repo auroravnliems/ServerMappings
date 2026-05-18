@@ -1,0 +1,20 @@
+{
+  "id": "auroracraft",
+  "name": "AuroraCraft",
+  "description": "Vietnamese RPG Minecraft server with custom systems",
+  "addresses": ["as.asgmc.net"],
+  "primaryAddress": "as.asgmc.net",
+  "gameTypes": ["GenshinRPG", "Kingdom", "Survival", "Nations", "Skyblock", "Minigame"],
+  "primaryColor": "#C8E2E1",
+  "secondaryColor": "#39FF67",
+  "minecraftVersions": ["1.21.x", "26.x"],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryLanguage": "vi",
+  "languages": ["vi", "en"],
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "website": "web.asgmc.net",
+  "socials": {
+    "discord": "https://discord.gg/YOUR_INVITE"
+  }
+}
