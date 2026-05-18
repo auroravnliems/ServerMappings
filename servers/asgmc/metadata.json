@@ -8,7 +8,7 @@
   "primaryColor": "#C8E2E1",
   "secondaryColor": "#39FF67",
   "minecraftVersions": ["1.21.x", "26.x"],
-  "primaryMinecraftVersion": "1.21.1",
+  "primaryMinecraftVersion": "1.21",
   "primaryLanguage": "vi",
   "languages": ["vi", "en"],
   "primaryRegion": "AS",
